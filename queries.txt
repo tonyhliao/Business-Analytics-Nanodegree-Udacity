@@ -1,0 +1,47 @@
+/*Query 1. Which countries have the most track purchases in the Metal* genre? (includes both GenreId #3, "Metal" and GenreId #13, "Heavy Metal"*/
+SELECT c.Country, COUNT(InvoiceLineId) "Metal Track Purchases"
+FROM Customer c
+JOIN Invoice i
+ON c.CustomerId = i.CustomerId
+JOIN InvoiceLine il
+ON i.InvoiceId = il.InvoiceId
+JOIN Track t
+ON t.TrackId = il.TrackId
+JOIN Genre g
+ON g.GenreId = t.GenreId
+WHERE g.Name = "Metal" OR g.Name = "Heavy Metal"
+GROUP BY 1
+ORDER BY 2 DESC
+LIMIT 5;
+
+/*Question 2. Which artists have the shortest tracks in the Chinook database?*/
+SELECT a.Name "Artist", MIN(t.Milliseconds)/1000 "Duration (s)"
+FROM Track t
+JOIN Album al
+ON al.AlbumId = t.AlbumId
+JOIN Artist a
+ON a.ArtistId = al.ArtistId
+GROUP BY 1
+ORDER BY 2
+LIMIT 5;
+
+
+/*Query 3. Which artists have the most albums within the Chinook Database?*/
+SELECT a.Name "Artist", COUNT(AlbumId) "Number of Albums"
+FROM Artist a
+JOIN Album al
+ON a.ArtistId = al.ArtistId
+GROUP BY 1
+ORDER BY 2 DESC
+LIMIT 5;
+
+/*Query 4. How much do customers from Brazil spend at this music store?*/
+SELECT c.CustomerId, c.FirstName, c.LastName, SUM(il.Quantity * il.UnitPrice) "USD Spent"
+FROM InvoiceLine il
+JOIN Invoice i
+ON i.InvoiceId = il.InvoiceId
+JOIN Customer c
+ON c.CustomerId = i.CustomerId
+WHERE c.Country = "Brazil"
+GROUP BY 1,2,3
+ORDER BY 4 DESC;
