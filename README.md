@@ -1,1 +1,1 @@
-# Business-Analytics---SQL---Music-Store-Query
+# Business-Analytics---SQL---Music-Store-Queries
