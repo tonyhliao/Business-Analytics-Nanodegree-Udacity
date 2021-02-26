@@ -3,7 +3,7 @@
 ### Part 1: Introduction to Data
 Statistics and visuals to find and communicate insight. Develop Excel skills to manipulate, analyze, and visualize data in a spreadsheet. Build Excel models to analyze possible business outcomes.
 
--Project:
+- Project:
 
 ### Part 2: SQL for Data Analysis
 Extract and analyze data stored in databases.
@@ -13,6 +13,6 @@ Extract and analyze data stored in databases.
 ### Part 3: Data Visualization
 Create impactful data visualizations, build data dashboards, and tell stories with data.
 
--Project: <a href="https://github.com/tonyhliao/Business-Analytics-Nanodegree-Udacity/blob/main/Tableau%20Project%20-%20Flight%20Delays.pdf">Build Data Dashboards</a>
+- Project: <a href="https://github.com/tonyhliao/Business-Analytics-Nanodegree-Udacity/blob/main/Tableau%20Project%20-%20Flight%20Delays.pdf">Build Data Dashboards</a>
 
 ![Udacity Business Analyst Nanodegree](https://github.com/tonyhliao/Business-Analytics-Nanodegree-Udacity/blob/main/certification.svg)
