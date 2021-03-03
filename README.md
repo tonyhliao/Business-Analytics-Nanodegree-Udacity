@@ -13,6 +13,6 @@ Extract and analyze data stored in databases.
 ### Part 3: Data Visualization
 Create impactful data visualizations, build data dashboards, and tell stories with data.
 
-- Project: <a href="https://github.com/tonyhliao/Business-Analytics-Nanodegree-Udacity/blob/main/Tableau%20Project%20-%20Flight%20Delays.pdf">Build Data Dashboards</a>
+- Project: <a href="https://github.com/tonyhliao/Business-Analytics-Nanodegree-Udacity/blob/main/Tableau%20Project%20-%20Flight%20Delays.md">Build Data Dashboards</a>
 
 ![Udacity Business Analyst Nanodegree](https://github.com/tonyhliao/Business-Analytics-Nanodegree-Udacity/blob/main/certification.svg)
