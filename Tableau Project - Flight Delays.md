@@ -18,7 +18,8 @@ of only the Iata Codes. This helps viewers understand more clearly which airline
 compared.
 
 ## Insight 1 – Which months have the smallest and largest Arrival Delays for Spirit Air Lines?
-![Business Analytics Nanodegree](https://github.com/tonyhliao/Business-Analytics-Nanodegree-Udacity/blob/tableau/Picture1.svg)
+<div class='tableauPlaceholder' id='viz1614798066164' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ar&#47;ArrivalDelaysbyMonth&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='ArrivalDelaysbyMonth&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ar&#47;ArrivalDelaysbyMonth&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object></div>      
+
 ### <a href="https://public.tableau.com/profile/tony.liao#!/vizhome/ArrivalDelaysbyMonth/Sheet1">Total Arrival Delay by Month</a>
 
 From the line chart, we can see which months have the smallest and largest Total Arrival Delays (in
@@ -28,6 +29,7 @@ minutes, while April has the least amount of delay, at 3001 minutes.
 
 
 ## Insight 2 – Which state has the most Departure Delay on Monday?
+<div class='tableauPlaceholder' id='viz1614797865181' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;To&#47;TotalDepartureDelaysinU_S_States&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='TotalDepartureDelaysinU_S_States&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;To&#47;TotalDepartureDelaysinU_S_States&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object></div>    
 
 ### <a href="https://public.tableau.com/profile/tony.liao#!/vizhome/TotalDepartureDelaysinU_S_States/Dashboard1">Total Departure Delays by U.S. State</a>
 
@@ -41,6 +43,7 @@ ease.
 
 
 ## Insight 3 – What time of day are Security Delays most prevalent?
+<div class='tableauPlaceholder' id='viz1614798014671' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Se&#47;SecurityDelaysThroughouttheDay&#47;Sheet4&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='SecurityDelaysThroughouttheDay&#47;Sheet4' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Se&#47;SecurityDelaysThroughouttheDay&#47;Sheet4&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object></div>              
 
 ### <a href="https://public.tableau.com/profile/tony.liao#!/vizhome/SecurityDelaysThroughouttheDay/Sheet4">Security Delays Throughout the Day</a>
 
