@@ -3,12 +3,12 @@ I completed this project as part of the Business Analytics course by Udacity
 ```
 # Tableau Project: Flight Delays
 
-## Introduction
+### Introduction
 <p align="justify">
 I used Tableau Desktop and Tableau Public to create three different visualizations to reveal insights from a data set. This data set tracks the on-time performance of US domestic flights operated by large air carriers in 2015. I provided images of the visualizations below, as well as hyperlinks to view the interactive versions.
 </p>
 
-## Left JOINs on Source Data
+### Left JOINs on Source Data
 <p align="justify">
 Before creating the visualizations, I used the Left Join function on flights.csv and airlines.csv, as well as between flights.csv and airports.csv, so that I could have access to the airline and airport names, instead of only the Iata Codes. This helps viewers understand more clearly which airlines or airports are being compared.
 </p>
