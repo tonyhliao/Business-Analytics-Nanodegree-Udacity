@@ -3,7 +3,7 @@
 ### Part 1: Introduction to Data
 Statistics and visuals to find and communicate insight. Develop Excel skills to manipulate, analyze, and visualize data in a spreadsheet. Build Excel models to analyze possible business outcomes.
 
-- Project:
+- Project: <a href="https://github.com/tonyhliao/Business-Analytics-Nanodegree-Udacity/tree/main/Analyze%20NYSE%20Data">Analyze NYSE DATA</a>
 
 ### Part 2: SQL for Data Analysis
 Extract and analyze data stored in databases.
