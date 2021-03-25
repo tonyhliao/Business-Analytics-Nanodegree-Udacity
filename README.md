@@ -2,7 +2,7 @@
 
 This repository contains the projects I completed as part of the Business Analytics Nanodegree.
 
-You can check my Nanodegree <a href="https://graduation.udacity.com/nd098">here</a>.
+You can check my Nanodegree <a href="https://confirm.udacity.com/XTG9T5PK">here</a>.
 
 ### Part 1: Introduction to Data
 Statistics and visuals to find and communicate insight. Develop Excel skills to manipulate, analyze, and visualize data in a spreadsheet. Build Excel models to analyze possible business outcomes.
