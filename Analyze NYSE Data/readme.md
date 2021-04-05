@@ -14,7 +14,7 @@ After calculating these two metrics and filtering the data, the summary statisti
 My analysis and visual chart showing the operating profits of both industries:
 ![image](https://user-images.githubusercontent.com/79599703/113607125-787b7f00-960e-11eb-87b3-922d494bbfbb.png)
 
-<i>Note: For the interactive versions of Part 2 and 3, as well as the Pivot Table, Filtered Data, and other spreadsheets used in Part 1, download the final Excel workbook <a href="https://github.com/tonyhliao/Business-Analytics-Nanodegree-Udacity/blob/main/Analyze%20NYSE%20Data/Original%20Dataset.csv">here</a>.
+<i>Note: For the interactive versions of Part 2 and 3, as well as the Pivot Table, Filtered Data, and other spreadsheets used in Part 1, download the final Excel workbook <a href="https://github.com/tonyhliao/Business-Analytics-Nanodegree-Udacity/blob/main/Analyze%20NYSE%20Data/Complete%20Workbook.xlsx">here</a>.
 
 ## Part 2: Dynamic Profit & Loss Statement
 An interactive spreadsheet where the user can pull P&L Statements for different companies.\
@@ -22,6 +22,6 @@ An interactive spreadsheet where the user can pull P&L Statements for different 
 ![image](https://user-images.githubusercontent.com/79599703/113608886-bc6f8380-9610-11eb-828a-a6c914f978a4.png)
 
 ## Part 3: Dynamic Forecasting Model
-An interactive spreadsheet where the user can choose different operating scenarios for the company 'LUV'. \
+An interactive spreadsheet where the user can choose different operating scenarios for a company. \
 <i>The 'base case' scenario:</i>
 ![image](https://user-images.githubusercontent.com/79599703/113609780-e07f9480-9611-11eb-93c3-e9bbabe6ccc3.png)
