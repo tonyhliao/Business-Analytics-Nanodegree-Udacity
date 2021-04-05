@@ -11,6 +11,9 @@ Operating Profit = 'Gross Profit' -  'Sales, General and Admin.' - 'Research and
 After calculating these two metrics and filtering the data, the summary statistics for both industries are as follows:
 ![image](https://user-images.githubusercontent.com/79599703/113601696-49adda80-9607-11eb-83fe-d683446870e6.png)
 
+My analysis:
+![image](https://user-images.githubusercontent.com/79599703/113607125-787b7f00-960e-11eb-87b3-922d494bbfbb.png)
+
 
 - Project: <a href="https://github.com/tonyhliao/Business-Analytics-Nanodegree-Udacity/tree/main/Analyze%20NYSE%20Data">Analyze NYSE Data</a>
 
