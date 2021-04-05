@@ -15,7 +15,7 @@ My analysis and visual chart showing the operating profits of both industries:
 ![image](https://user-images.githubusercontent.com/79599703/113607125-787b7f00-960e-11eb-87b3-922d494bbfbb.png)
 
 ## Part 2: Dynamic Profit & Loss Statement
-<i>Note: For the interactive versions of Part 2 and 3, as well as the Pivot Table, Filtered Data, and other spreadsheets used in Part 1, download the final Excel workbook <a href="https://github.com/tonyhliao/Business-Analytics-Nanodegree-Udacity/blob/main/Analyze%20NYSE%20Data/Complete%20Workbook.xlsx">here</a>.</i>
+<i>Note: For the interactive versions of Part 2 and 3, as well as the Pivot Table, Filtered Data, and other spreadsheets used in Part 1, download my final Excel workbook <a href="https://github.com/tonyhliao/Business-Analytics-Nanodegree-Udacity/blob/main/Analyze%20NYSE%20Data/Complete%20Workbook.xlsx">here</a>.</i>
 
 An interactive spreadsheet where the user can pull P&L Statements for different companies.\
 <i>One company's P&L Statement:</i>
